@@ -1,0 +1,7 @@
+numpy
+pandas
+itertools
+random
+random 
+pandas
+os
